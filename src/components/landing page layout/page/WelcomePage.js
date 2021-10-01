@@ -8,7 +8,6 @@ import { Languages } from '../layouts/Languages';
 export const WelcomePage = () => {
   return (
     <div className='welcome'>
-      <div>Whatx up people</div>
       <Header />
       <Features />
       <Languages />
